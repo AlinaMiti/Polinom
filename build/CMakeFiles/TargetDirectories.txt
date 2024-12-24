@@ -1,0 +1,3 @@
+D:/Poli/Polinom/build/CMakeFiles/main.dir
+D:/Poli/Polinom/build/CMakeFiles/edit_cache.dir
+D:/Poli/Polinom/build/CMakeFiles/rebuild_cache.dir

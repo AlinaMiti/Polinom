@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Poli/Polinom/build",
+  "command": "C:\\Users\\alina\\Downloads\\x86_64-13.2.0-release-win32-seh-ucrt-rt_v11-rev0\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\Poli\\Polinom\\main.cpp",
+  "file": "D:/Poli/Polinom/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/Poli/Polinom/build",
+  "command": "C:\\Users\\alina\\Downloads\\x86_64-13.2.0-release-win32-seh-ucrt-rt_v11-rev0\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\Monom.cpp.obj -c D:\\Poli\\Polinom\\Monom.cpp",
+  "file": "D:/Poli/Polinom/Monom.cpp",
+  "output": "CMakeFiles/main.dir/Monom.cpp.obj"
+},
+{
+  "directory": "D:/Poli/Polinom/build",
+  "command": "C:\\Users\\alina\\Downloads\\x86_64-13.2.0-release-win32-seh-ucrt-rt_v11-rev0\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main.dir\\Polynom.cpp.obj -c D:\\Poli\\Polinom\\Polynom.cpp",
+  "file": "D:/Poli/Polinom/Polynom.cpp",
+  "output": "CMakeFiles/main.dir/Polynom.cpp.obj"
+}
+]
